@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">KAROLINE</string>
+
+    <!-- Login / Register -->
+    <string name="login_title">KAROLINE</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_create_account">CREATE ACCOUNT</string>
+    <string name="action_continue">Continue</string>
+    <string name="title_create_account">CREATE ACCOUNT</string>
+
+    <!-- Home -->
+    <string name="title_home">HOME</string>
+    <string name="banner_new_collection">NEW\nCOLLECTION</string>
+    <string name="filter_popular">POPULAR</string>
+    <string name="filter_new">NEW COLLECTION</string>
+    <string name="filter_sale">SALE</string>
+    <string name="sale_label">SALE</string>
+    <string name="sale_off">UP TO 70%% OFF</string>
+    <string name="action_view_all">View all</string>
+
+    <!-- Categories -->
+    <string name="title_categories">CATEGORIES</string>
+    <string name="category_blouse">BLOUSE</string>
+    <string name="category_pants">PANTS</string>
+    <string name="category_jacket">JACKET</string>
+    <string name="category_dress">DRESS</string>
+    <string name="category_top">TOP</string>
+    <string name="category_bottoms">BOTTOMS</string>
+
+    <!-- Product -->
+    <string name="title_details">DETAILS</string>
+    <string name="label_size">Size</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="action_add_to_cart">Add to Cart</string>
+    <string name="action_checkout_now">Checkout Now</string>
+    <string name="action_continue_shopping">Continue Shopping</string>
+
+    <!-- Cart -->
+    <string name="title_cart">SHOPPING CART</string>
+    <string name="cart_empty">Your cart is empty</string>
+    <string name="cart_total">Total: $%1$.2f</string>
+    <string name="cart_item_removed">Removed from cart</string>
+    <string name="cart_added">Added to cart</string>
+
+    <!-- Favorites -->
+    <string name="title_favorites">FAVORITES</string>
+    <string name="favorites_empty">No favorites yet — tap the heart on any product</string>
+    <string name="favorite_added">Added to favorites</string>
+    <string name="favorite_removed">Removed from favorites</string>
+
+    <!-- Checkout -->
+    <string name="title_checkout">CHECKOUT</string>
+    <string name="tab_shipping">Shipping Address</string>
+    <string name="tab_payment">Payments</string>
+    <string name="hint_card_number">Credit Card #No</string>
+    <string name="hint_expires">Expires</string>
+    <string name="hint_cvv">CVV-Code</string>
+    <string name="hint_save_card">Save the time and scan your credit card</string>
+    <string name="agree_terms">Agree to our terms and conditions</string>
+    <string name="action_finish">Finish</string>
+    <string name="order_placed">Order placed successfully!</string>
+
+    <!-- Bottom nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_favorites">Favorites</string>
+
+    <!-- Misc -->
+    <string name="content_desc_product">Product image</string>
+    <string name="content_desc_back">Back</string>
+    <string name="content_desc_menu">Menu</string>
+    <string name="content_desc_search">Search</string>
+    <string name="content_desc_favorite">Add to favorites</string>
+    <string name="content_desc_share">Share</string>
+    <string name="content_desc_remove">Remove</string>
+    <string name="price_format">$%1$.2f</string>
+</resources>

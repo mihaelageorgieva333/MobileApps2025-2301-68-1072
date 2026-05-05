@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.KAROLINE" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorPrimaryContainer">@color/pink_primary_night</item>
+        <item name="colorOnPrimaryContainer">@color/pink_light</item>
+        <item name="colorSecondary">@color/pink_primary_night</item>
+        <item name="colorOnSecondary">@color/pink_light</item>
+        <item name="colorSecondaryContainer">@color/pink_light_night</item>
+        <item name="colorOnSecondaryContainer">@color/pink_pale</item>
+
+        <item name="android:colorBackground">@color/background_night</item>
+        <item name="colorSurface">@color/surface_night</item>
+        <item name="colorOnSurface">@color/text_primary_night</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary_night</item>
+
+        <item name="colorError">@color/sale_red</item>
+
+        <item name="android:statusBarColor">@color/background_night</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/surface_night</item>
+    </style>
+</resources>
